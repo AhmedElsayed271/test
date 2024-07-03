@@ -1,9 +1,5 @@
 <?php
 
 
-    echo "Hello World";
-    echo "Hello World";
-    echo "Hello World";
-
-      phpinfo();
+ echo "solve Confilict";
 
