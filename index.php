@@ -3,20 +3,19 @@
 
 
 
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
-
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
- echo "solve Confilict";
 
 
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
+ phpinfo();
  phpinfo();
 
